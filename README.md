@@ -1,0 +1,4 @@
+- I’m @da-gawd
+- I’m interested in every kind of software
+- I’m currently learning web development
+- I’m looking to collaborate on tools, websites, and APIs
